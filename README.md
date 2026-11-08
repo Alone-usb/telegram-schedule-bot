@@ -18,4 +18,6 @@
 git clone [https://github.com/Alone-usb/telegram-schedule-bot.git](https://github.com/Alone-usb/telegram-schedule-bot.git)
 cd telegram-schedule-bot
 pip install -r requirements.txt
-python main.py
+python main.py;
+## 5. Автор та контактна інформація
+Василь Недоходюк — nedohodiuk91@gmail.com
